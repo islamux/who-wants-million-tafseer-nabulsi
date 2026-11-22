@@ -5,3 +5,9 @@ dist
 .opencode/
 bassaer-as-a-game/
 graphify-out/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
